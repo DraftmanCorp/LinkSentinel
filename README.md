@@ -1,5 +1,5 @@
 # LinkSentinel
-**A lightweight yet powerful tool to long-term monitor internet connectivity on Windows PC — 24/7 logging, visible or hidden.**
+**A lightweight yet powerful tool to long-term monitor internet connectivity on Windows 7*/8/10/11 PC — 24/7 logging, visible or hidden.**
 
 ## 🧠 What is LinkSentinel?
 **LinkSentinel** is a simple but powerful PowerShell script that allows any Windows 10 or 11 machine to monitor its internet connection status continuously, either **visibly** (with console output) or **silently** (in background).
@@ -24,6 +24,11 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 3. By default, the check and log interval is set to 10 seconds - you can edit this interval editing the Script.ps1 file, to the last line "Start-Sleep -Seconds 10"
 4. By default, LinkSentinel checks connectivity to Google, Microsoft, and Cloudflare servers. If you want to modify these targets, edit the script.ps1 file to the section: "$targets = @("
 5. The logging will start immediately and create the first log file in the same folder with this naming format "Log_monitor_YYYY-MM-DD.txt"
+
+6. *Windows 7 PC requirements:
+7. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
+8. Windows Management Framework 5.1 -> Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
+9. .NET Framework 4.5 o superiore -> Download [here](https://www.microsoft.com/it-it/download/details.aspx?id=30653)
 
 ---
 
