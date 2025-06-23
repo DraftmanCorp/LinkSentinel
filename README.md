@@ -26,9 +26,9 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 5. The logging will start immediately and create the first log file in the same folder with this naming format "Log_monitor_YYYY-MM-DD.txt"
 
 ## *Windows 7 PC requirements:
-1.Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
-2.Windows Management Framework 5.1 -> Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
-3..NET Framework 4.5 o superiore -> Download [here](https://www.microsoft.com/it-it/download/details.aspx?id=30653)
+1. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
+2. Windows Management Framework 5.1 -> Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
+3. .NET Framework 4.5 o superiore -> Download [here](https://www.microsoft.com/it-it/download/details.aspx?id=30653)
 
 ---
 
