@@ -19,11 +19,7 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 ---
 
 ### 🚀 How to Use
-1. Clone or download the repository
-2. Launch the `Start_hidden.bat` file to run in background, or run `Start_console.bat` to run in visible console mode
-3. By default, the check and log interval is set to 10 seconds - you can edit this interval editing the Script.ps1 file, to the last line "Start-Sleep -Seconds 10"
-4. By default, LinkSentinel checks connectivity to Google, Microsoft, and Cloudflare servers. If you want to modify these targets, edit the script.ps1 file to the section: "$targets = @("
-5. The logging will start immediately and create the first log file in the same folder with this naming format "Log_monitor_YYYY-MM-DD.txt"
+1. See the mini guide in the release page.
 
 ### Windows 7 PC requirements:
 1. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
