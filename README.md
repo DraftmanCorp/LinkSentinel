@@ -19,7 +19,7 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 ---
 
 ### 🚀 How to Use
-1. Download **LinkSentinel Pro.** and see the mini guide in the [release page](https://github.com/DraftmanCorp/LinkSentinel-Pro./releases).
+1. Download **LinkSentinel Pro.** and see the mini guide from [release](https://github.com/DraftmanCorp/LinkSentinel-Pro./releases) page.
 
 ### Windows 7 PC requirements:
 1. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
