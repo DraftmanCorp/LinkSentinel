@@ -40,7 +40,7 @@ You are free to use, modify, and distribute it, as long as credit is given.
 
 ### ✍️ Authors & Credits
 - **Script & concept:** DraftmanCorp.
-- **Chart.js [license](https://github.com/chartjs/Chart.js/blob/master/LICENSE.md) by [Chartjs](https://github.com/chartjs/Chart.js).
+- **Chart.js:** [license](https://github.com/chartjs/Chart.js/blob/master/LICENSE.md) by [Chartjs](https://github.com/chartjs/Chart.js).
 - **Technical support & development:** [ChatGPT by OpenAI](https://openai.com/chatgpt)
 
 ---
