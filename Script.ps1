@@ -1,8 +1,4 @@
-﻿# LinkSentinel 1.0 - Monitoraggio connessione internet
-$scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
-$logFile = Join-Path $scriptPath ("Log_monitor_" + (Get-Date -Format "yyyy-MM-dd") + ".txt")
-
-$welcome = @"
+﻿$welcome = @"
 =============================================
   LinkSentinel Pro.| INTERNET UPLINK LOGGER
   Version: v0.0.1
@@ -13,6 +9,10 @@ $welcome = @"
 
 
 "@
+
+# LinkSentinel - Monitoraggio connessione internet
+$scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
+$logFile = Join-Path $scriptPath ("Log_monitor_" + (Get-Date -Format "yyyy-MM-dd") + ".txt")
 
 $welcome | Out-File -FilePath $logFile -Encoding UTF8 -Append
 Write-Host $welcome
@@ -32,7 +32,7 @@ if ($currentPolicy -eq 'Restricted' -or $currentPolicy -eq 'Undefined') {
 }
 
 $scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Definition
-$logFile = Join-Path $scriptPath ("Log_Connessione_" + (Get-Date -Format "yyyy-MM-dd") + ".txt")
+$logFile = Join-Path $scriptPath ("Log_monitor_" + (Get-Date -Format "yyyy-MM-dd") + ".txt")
 
 $targets = @(
     @{ Name = "Google";     Url = "https://www.google.com" },
@@ -46,7 +46,7 @@ $maxUrlLength  = ($targets | ForEach-Object { $_.Url.Length }  | Measure-Object 
 
 while ($true) {
     # Aggiorna il nome del file log ogni ciclo per gestire il cambio giorno
-    $logFile = Join-Path $scriptPath ("Log_Connessione_" + (Get-Date -Format "yyyy-MM-dd") + ".txt")
+    $logFile = Join-Path $scriptPath ("Log_monitor_" + (Get-Date -Format "yyyy-MM-dd") + ".txt")
 
     $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
