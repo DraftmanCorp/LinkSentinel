@@ -1,4 +1,4 @@
-# LinkSentinel
+# LinkSentinel Pro.
 **A lightweight yet powerful tool to long-term monitor internet connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden.**
 
 ### 🧠 What is LinkSentinel?
