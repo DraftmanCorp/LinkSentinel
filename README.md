@@ -1,4 +1,5 @@
 # LinkSentinel Pro.
+![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/0.1.0_chart_preview.jpg)
 **A lightweight yet powerful tool to long-term monitor internet connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden.**
 
 ### 🧠 What is LinkSentinel?
