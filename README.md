@@ -27,7 +27,7 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 2. Any modern Web browser (not mandatory, just in case you want to see the web dashboard)
 3. Download **LinkSentinel Pro.** and see the mini guide from [release](https://github.com/DraftmanCorp/LinkSentinel-Pro./releases) page.
 
-### !!! Windows 7 PC requirements:
+### Windows 7 PC requirements:
 1. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
 2. Windows Management Framework 5.1 -> Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
 3. .NET Framework 4.5 o superiore -> Download [here](https://www.microsoft.com/it-it/download/details.aspx?id=30653)
