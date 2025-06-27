@@ -6,9 +6,9 @@
 It immediately creates a log file that tracks connection status every few seconds, and logs are readable and openable at any time — even while the script is running.
 To avoid huge log files, a new log file is automatically started every 24 hours, named like: "Log_monitor_YYYY-MM-DD.txt"
 
-![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/preview_light_mode.jpg)
+![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/0.1.2-l.jpg)
 
-![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/preview_dark_mode.jpg)
+![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/0.1.2-d.jpg)
 
 ---
 
