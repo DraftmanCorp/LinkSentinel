@@ -1,8 +1,8 @@
 # LinkSentinel Pro.
 **A lightweight yet powerful tool to long-term monitor internet or local hosts connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden.**
 
-### 🧠 What is LinkSentinel?
-**LinkSentinel** is a simple but powerful PowerShell script that allows any Windows 7, 8, 8.1, 10 or 11 machine to monitor its internet connection status continuously or devices connectivity in the local network, either **visibly** (with console output) or **silently** (in background) with graphic chart.
+### 🧠 What is LinkSentinel Pro.?
+This is a simple but powerful PowerShell script that allows any Windows 7, 8, 8.1, 10 or 11 machine to monitor its internet connection status continuously or devices connectivity in the local network, either **visibly** (with console output) or **silently** (in background) with graphic chart.
 It immediately creates a log file that tracks connection status every few seconds, and logs are readable and openable at any time — even while the script is running.
 To avoid huge log files, a new log file is automatically started every 24 hours, named like: "Log_monitor_YYYY-MM-DD.txt"
 
@@ -22,10 +22,12 @@ To avoid huge log files, a new log file is automatically started every 24 hours,
 
 ---
 
-### 🚀 How to Use
-1. Download **LinkSentinel Pro.** and see the mini guide from [release](https://github.com/DraftmanCorp/LinkSentinel-Pro./releases) page.
+### 🚀 Requirements & How to Use
+1. A Windows 7/8/10/11 computer
+2. Any modern Web browser (not mandatory, just in case you want to see the web dashboard)
+3. Download **LinkSentinel Pro.** and see the mini guide from [release](https://github.com/DraftmanCorp/LinkSentinel-Pro./releases) page.
 
-### Windows 7 PC requirements:
+### !!! Windows 7 PC requirements:
 1. Windows 7 SP1 (Service Pack 1) -> Download [here](https://www.catalog.update.microsoft.com/Search.aspx?q=KB976932)
 2. Windows Management Framework 5.1 -> Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=54616)
 3. .NET Framework 4.5 o superiore -> Download [here](https://www.microsoft.com/it-it/download/details.aspx?id=30653)
