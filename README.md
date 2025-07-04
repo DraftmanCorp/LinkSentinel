@@ -1,5 +1,5 @@
 # LinkSentinel Pro.
-**A lightweight yet powerful tool to long-term monitor internet or local hosts connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden.**
+**A lightweight yet powerful tool to long-term monitor internet or local hosts connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden. No setup, just run.**
 
 ![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/1.0.0.jpg)
 
