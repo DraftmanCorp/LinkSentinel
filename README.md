@@ -1,7 +1,7 @@
 # LinkSentinel Pro.
 **A lightweight yet powerful tool to long-term monitor internet or local hosts connectivity on Windows 7/8/10/11 PC — 24/7 logging, visible or hidden. No setup, just run.**
 
-![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/1.0.0.jpg)
+![Preview](https://github.com/DraftmanCorp/LinkSentinel-Pro./blob/main/Preview/1.1.0.jpg)
 
 ### 🧠 What is LinkSentinel Pro.?
 This is a simple but powerful PowerShell script that allows any Windows 7, 8, 10 or 11 machine to monitor its internet connection status continuously or devices connectivity in the local network, either **visibly** (with console output) or **silently** (in background) with graphic chart.
